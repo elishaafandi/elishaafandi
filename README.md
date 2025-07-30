@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Elisha Afandi</h1>
-<h3 align="center">2nd year student in UTM. Currently pursing a Bachelor's Degree for Computer Science (Graphic and Multimedia Software)</h3>
+<h3 align="center">3rd year student in UTM. Currently pursing a Bachelor's Degree for Computer Science (Graphic and Multimedia Software)</h3>
 
 - 📫 How to reach me **elisha03@graduate.utm.my**
 
